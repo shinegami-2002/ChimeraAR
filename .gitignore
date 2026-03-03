@@ -12,3 +12,10 @@
 *.pidb
 *.unityproj
 *.DS_Store
+.utmp
+
+# Build artifacts — don't ship
+*.app/
+*.apk
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
