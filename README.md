@@ -11,9 +11,7 @@ A mixed-reality painting application for Meta Quest 3 that lets you paint direct
 
 https://github.com/user-attachments/assets/aacbfb7b-7853-4761-8c99-edc2b84cf36f
 
-
-
-> *30-second preview — full demo available on request*
+[Watch full demo on YouTube](https://youtu.be/_E2EIx3jKhE)
 
 ---
 
